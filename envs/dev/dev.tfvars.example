@@ -1,0 +1,5 @@
+project_id = "thinking-heaven-458116-k3"
+region     = "us-central1" 
+zone       = "us-central1-a"
+
+# Copy the file to dev.tfvars and fill in the values
